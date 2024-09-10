@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Front-End Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Omid-frz]([https://github.com/Omid-frz])
+- 👨‍💻 All of my projects are available at [https://github.com/Omid-frz]([github.com/Omid-frz])
 
 - 💬 Ask me about **HTML5, CSS3, BootStrap5, TailwindCSS, Javascript, Reactjs, Nextjs**
 
